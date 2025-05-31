@@ -1,0 +1,45 @@
+body{
+     background:linear-gradient(to bottom left,#ae65e3 50%,#e299e0 50%); 
+     height: 100vh;
+     align-items: center;
+     justify-content: center;
+     display: block;
+
+    
+
+}
+.box {
+    background-color: white;
+    height: 70px;
+    width: 300px;
+    text-align: center;
+    box-shadow: black 5px 5px 5px;
+    border-radius: 10px;
+    margin: 200px 50px 20px 800px;
+    align-content: center;
+}
+
+button{
+    border-radius: 50%;
+   align-items: center;
+     background-color: #8778d1;
+     color: white;
+     box-shadow: inset white 2px 2px;
+     padding: 15px 15px ;
+     margin-left: 30px;
+}
+.Box{
+     background-color:white;
+    height: "";
+    width: 300px; 
+    align-content: center;
+    box-shadow: black 5px 5px 5px;
+    border-radius: 10px;
+    margin: 100px 50px 20px 800px;
+    padding: 10px;
+     
+}
+
+input[type="text"]{
+   margin:10px;
+} 
