@@ -10,7 +10,7 @@ body{
 }
 .box {
     background-color: white;
-    height: 70px;
+    height: 100px;
     width: 300px;
     text-align: center;
     box-shadow: black 5px 5px 5px;
